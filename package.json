@@ -1,0 +1,29 @@
+{
+  "name": "react_redux_thunk",
+  "version": "1.0.0",
+  "description": "This is a sample app using react and redux",
+  "main": "index.js",
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "babel-preset-stage-1": "^6.16.0"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "sample",
+    "app"
+  ]
+}
