@@ -67,7 +67,7 @@ static addTodos(jsonResult) {
       };
     }
 ```
-Now you can remove the static default state from component/Reducer.jsx, looks like below now
+Now you can empty the default state(state will come from API now) from component/Reducer.jsx.
 ```sh
 static defaultTodos(){
             return{
