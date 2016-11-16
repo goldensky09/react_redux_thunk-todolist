@@ -4,7 +4,7 @@ Sample "To Do List" application using React, Redux and Thunk
 ##Pre requisite
 
 * Refer [react_todolist](https://github.com/mkum83/react_todolist) contains same application built with React only.
-* Refer [react_todolist](https://github.com/mkum83/react_todolist), same application built with React + Redux.
+* Refer [/react_redux-todolist](https://github.com/mkum83/react_redux-todolist), same application built with React + Redux.
 
 before starting, please refer above applications before starting, as current application is just an extension of above both.
 
